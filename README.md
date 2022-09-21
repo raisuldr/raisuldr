@@ -1,3 +1,4 @@
+<p align='center'>
 ### Hi there 👋, It's Raisul here!
 I am still learning new things.
 
@@ -13,3 +14,4 @@ Skills: REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raisuldr&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/raisuldr)  
+</p>
