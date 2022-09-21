@@ -1,17 +1,11 @@
-<p align='center'>
-### Hi there 👋, It's Raisul here!
-I am still learning new things.
+<h1 align="center">Hi there 👋, It's Raisul here </h1>
+<p align="center">- ⚡ Fun fact: I am learning everyday.</p>
 
-Skills: REACT / JS / HTML / CSS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisuldr&theme=react" alt="raisuldr" width="250">                                                                                            
+<br/>
 
-- ⚡ Fun fact: I am learning everyday 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raisuldr)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisuldr)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raisuldr&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/raisuldr)  
+<img src="https://github-readme-stats.vercel.app/api?username=raisuldr&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true" alt="raisuldr" width="500">
+<br/>
+<img src="https://komarev.com/ghpvc/?username=raisuldr&label=Views&color=blue&style=flat" alt="raisuldr" height="28" />
 </p>
